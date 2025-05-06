@@ -1,6 +1,6 @@
-# Fantastic React Portfolio Project 🚀
+# Fantastic React Rock Project 🚀
 
-Welcome to my React Portfolio – a stunning showcase of my work built with React.js.
+Welcome to Rock Project – a stunning showcase of my work built with React.js.
 
 ## ✨ Features
 - Modern UI with animations
