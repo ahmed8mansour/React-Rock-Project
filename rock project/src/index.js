@@ -1,9 +1,14 @@
 import React from "react"
 import ReactDom from "react-dom"
+
+// Import Bootstrap CSS and JS
+import "bootstrap/dist/css/bootstrap.min.css"
+import "bootstrap/dist/js/bootstrap.bundle.min.js"
+
+// Import Font Awesome CSS
+import "@fortawesome/fontawesome-free/css/all.min.css"
+
 import "./css/style.css"
-import "./fontawesome-free-6.6.0-web/css/all.min.css"
-import "./bootstrap files/css/bootstrap.css"
-import "./bootstrap files/js/bootstrap.bundle.js"
 
 import App from "./app.js"
 

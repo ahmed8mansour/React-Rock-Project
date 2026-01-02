@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React from "react";
 
 export default function Home(){
   const [windowDimensions, setWindowDimensions] = React.useState({
@@ -21,7 +21,7 @@ export default function Home(){
     
     return(
         <div className="my_section home_section" >
-            <div className="container">
+            <div className="container ">
             <nav class="navbar navbar-expand-lg "> 
  
  <div class="container">
